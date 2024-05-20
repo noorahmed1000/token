@@ -1,0 +1,7 @@
+new token
+
+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
+
+git clone https://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@github.com/noorahmed1000/shoplane.git
+
+https://github.com/noorahmed1000/shoplane.git
